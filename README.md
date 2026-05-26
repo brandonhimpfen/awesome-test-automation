@@ -80,6 +80,7 @@ Test automation improves software quality, accelerates development cycles, and e
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) – Built-in CI/CD for GitLab projects.
 - [CircleCI](https://circleci.com/) – Continuous integration and delivery platform.
 - [Jenkins](https://www.jenkins.io/) – Extendable open-source automation server.
+- [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) – Hardware-in-the-loop testing framework for cloud-native CI/CD pipelines.
 
 ## Visual Testing
 
