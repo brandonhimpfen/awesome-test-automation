@@ -45,6 +45,7 @@ Test automation improves software quality, accelerates development cycles, and e
 - [Appium](https://appium.io/) – Cross-platform mobile automation framework.
 - [Espresso](https://developer.android.com/training/testing/espresso) – Native Android UI testing framework.
 - [XCUITest](https://developer.apple.com/documentation/xctest) – Native iOS UI testing framework.
+- [Podium MCP](https://github.com/hoainho/podium-mcp) – MCP server for testing mobile apps on Android/iOS simulators using Maestro, with Redux state debugging.
 
 ## API Testing
 
