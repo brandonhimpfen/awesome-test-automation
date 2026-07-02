@@ -83,9 +83,10 @@ Test automation improves software quality, accelerates development cycles, and e
 
 ## Visual Testing
 
-- [Percy](https://percy.io/) – Visual testing and review platform.
 - [Applitools](https://applitools.com/) – AI-powered visual test automation.
+- [Lastest](https://lastest.cloud) - Visual regression testing for Playwright with screenshot diffing, AI-assisted baseline review, and flake triage.
 - [Loki](https://loki.js.org/) – Visual regression testing for Storybook.
+- [Percy](https://percy.io/) – Visual testing and review platform.
 
 ## Test Reporting
 
