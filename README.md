@@ -35,6 +35,7 @@ Test automation improves software quality, accelerates development cycles, and e
 
 ## Web Automation
 
+- [agent-qa](https://github.com/vostride/agent-qa) – Self-improving QA agent for natural-language web and mobile tests with run memory, UI-change adaptation, and regression detection.
 - [Selenium](https://www.selenium.dev/) – Industry-standard framework for browser automation.
 - [Cypress](https://www.cypress.io/) – Fast, reliable testing for anything that runs in the browser.
 - [Playwright](https://playwright.dev/) – Node.js library to automate Chromium, Firefox, and WebKit.
