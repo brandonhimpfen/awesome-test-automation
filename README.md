@@ -39,6 +39,7 @@ Test automation improves software quality, accelerates development cycles, and e
 - [Cypress](https://www.cypress.io/) – Fast, reliable testing for anything that runs in the browser.
 - [Playwright](https://playwright.dev/) – Node.js library to automate Chromium, Firefox, and WebKit.
 - [TestCafe](https://testcafe.io/) – Node.js-based end-to-end testing tool.
+- [Kane CLI](https://www.testmuai.com/kane-cli/) – AI browser testing driven by natural-language objectives, with a free local tier and CI-ready exit codes.
 
 ## Mobile Automation
 
