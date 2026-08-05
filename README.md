@@ -32,6 +32,7 @@ Test automation improves software quality, accelerates development cycles, and e
 - [Test Automation University](https://testautomationu.applitools.com/) – Free courses and tutorials for all levels of automation.
 - [Ministry of Testing](https://www.ministryoftesting.com/) – Knowledge hub for QA and automation professionals.
 - [Software Testing Help](https://www.softwaretestinghelp.com/) – Reviews and tutorials for automation tools.
+- [QAPractices Test Automation](https://qapractices.com/topics/test-automation/) – Curated hub with test automation guides, checklists and templates for web, mobile and API testing.
 
 ## Web Automation
 
