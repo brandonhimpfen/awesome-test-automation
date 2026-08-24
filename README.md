@@ -45,6 +45,7 @@ Test automation improves software quality, accelerates development cycles, and e
 - [Appium](https://appium.io/) – Cross-platform mobile automation framework.
 - [Espresso](https://developer.android.com/training/testing/espresso) – Native Android UI testing framework.
 - [XCUITest](https://developer.apple.com/documentation/xctest) – Native iOS UI testing framework.
+- [Optics Framework](https://github.com/mozarkai/optics-framework) – Self-healing test automation for mobile, web, and Smart TV apps; CSV/YAML keyword tests run over Appium, Selenium, and Playwright with locator fallback across XPath, text, OCR, and image strategies.
 
 ## API Testing
 
