@@ -1,4 +1,4 @@
-# Awesome Test Automation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Test Automation [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -107,9 +107,9 @@ Test automation improves software quality, accelerates development cycles, and e
 
 ## Related Awesome Lists
 
-- **[Awesome QA](https://github.com/awesomelistsio/awesome-qa)** – Tools and resources for quality assurance.
-- **[Awesome Testing](https://github.com/awesomelistsio/awesome-testing)** – All types of software testing tools and practices.
-- **[Awesome CI](https://github.com/awesomelistsio/awesome-ci)** – Continuous integration tools and workflows.
+- **[Awesome QA](https://github.com/brandonhimpfen/awesome-qa)** – Tools and resources for quality assurance.
+- **[Awesome Testing](https://github.com/brandonhimpfen/awesome-testing)** – All types of software testing tools and practices.
+- **[Awesome CI](https://github.com/brandonhimpfen/awesome-ci)** – Continuous integration tools and workflows.
   
 ## Contribute
 
